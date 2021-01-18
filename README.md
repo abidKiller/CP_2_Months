@@ -1,6 +1,5 @@
 # CP_2_Months
 
-# Month 1
 
 ## Week 1
 Dynamic Programming 
